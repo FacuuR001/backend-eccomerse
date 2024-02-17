@@ -131,9 +131,9 @@
     {
       "imgURL": "https://http2.mlstatic.com/D_NQ_NP_619259-MLA70093477587_062023-O.webp",
       "categoria": "helicoptero",
-      "nombre": "Helicoptero ZJ19",
+      "nombre": "Notebook Gamer Predator Helios 300 de Acer",
       "precio": "1854000",
-      "descripcion": "Es un helicóptero utilitario militar de carga media, bimotor con rotor de cuatro palas, fabricado por la compañía estadounidense Sikorsky Aircraft y de tamaño medio. Sikorsky Aircraft presentó el diseño del Sikorsky S-70 para la competición UTTAS (siglas en inglés de Utility Tactical Transport Aircraft System) organizada por el Ejército de los Estados Unidos en 1972 para un helicóptero utilitario de transporte táctico.",
+      "descripcion": "Procesador: Intel Core i7-10750H de 10ª generación.Tarjeta Gráfica: NVIDIA GeForce RTX 3060 con 6 GB de VRAM.RAM: 16 GB DDR4 a 2933 MHz, ampliable hasta 32 GB.Almacenamiento: SSD NVMe de 512 GB.Pantalla: IPS de 15.6 pulgadas, Full HD (1920 x 1080) con una frecuencia de actualización de 144 Hz.Teclado Retroiluminado: Teclado RGB personalizable.Conectividad: Wi-Fi 6, Bluetooth 5.0, variedad de puertos USB, HDMI, y Ethernet.Sistema de Enfriamiento: Tecnología de enfriamiento avanzada con ventiladores duales.",
       "id": "4a0c6926-ca59-4f63-9bb7-a673f7d7644b"
     },
     {
@@ -141,13 +141,7 @@
       "categoria": "helicoptero",
       "nombre": "Notebook Gamer ROG Zephyrus G14 de ASUS",
       "precio": "1538030",
-      "descripcion": "Procesador: AMD Ryzen 9 5900HS de 4ª generación. Tarjeta Gráfica: NVIDIA GeForce RTX 3060 con 6 GB de VRAM.
-RAM: 16 GB DDR4 a 3200 MHz, soldada en placa base.
-Almacenamiento: SSD NVMe de 1 TB.
-Pantalla: IPS de 14 pulgadas, QHD (2560 x 1440) con una frecuencia de actualización de 120 Hz.
-Teclado Retroiluminado: Teclado retroiluminado con iluminación LED en las teclas.
-Conectividad: Wi-Fi 6, Bluetooth 5.1, USB-C con Power Delivery, variedad de puertos USB y HDMI.
-Sistema de Enfriamiento: Diseño térmico inteligente con refrigeración activa.",
+      "descripcion": "Procesador: AMD Ryzen 9 5900HS de 4ª generación. Tarjeta Gráfica: NVIDIA GeForce RTX 3060 con 6 GB de VRAM. RAM: 16 GB DDR4 a 3200 MHz, soldada en placa base. Almacenamiento: SSD NVMe de 1 TB. Pantalla: IPS de 14 pulgadas, QHD (2560 x 1440) con una frecuencia de actualización de 120 Hz. Teclado Retroiluminado: Teclado retroiluminado con iluminación LED en las teclas. Conectividad: Wi-Fi 6, Bluetooth 5.1, USB-C con Power Delivery, variedad de puertos USB y HDMI. Sistema de Enfriamiento: Diseño térmico inteligente con refrigeración activa.",
       "id": "fa57fd9c-ec2e-4b23-a9e7-5a2682d3c12d"
     }
   ],
