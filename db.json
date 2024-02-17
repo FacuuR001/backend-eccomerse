@@ -1,67 +1,67 @@
 {
   "producto": [
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/autos/auto-1.jpg",
+      "imgURL": "https://e.rpp-noticias.io/xlarge/2023/03/28/240824_1407903.jpg",
       "categoria": "auto",
-      "nombre": "Dodge Charger 1970",
+      "nombre": "VelocityX Thunderstorm",
       "precio": "50000",
-      "descripcion": "El Charger RT 1970, caracterizado por la toma de aire en el cofre, tenía 900 caballos de fuerza. CON ESA POTENCIA, el padre de Dominic conquistó el cuarto de milla en tan solo 9 segundos. Este detalle es importante, pues es muy difícil completar el cuarto de milla en 10 segundos o menos.",
+      "descripcion": "Procesador: Intel Core i7-11700K Tarjeta Gráfica: NVIDIA GeForce RTX 3070 Memoria RAM: 32 GB DDR4 3200 MHz Almacenamiento: SSD NVMe 512 GB",
       "id": "1"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/autos/auto-2.jpg",
+      "imgURL": "https://www.gsmpro.cl/cdn/shop/articles/Componentes_Esenciales_para_Armar_una_PC_Gamer_de_Alto_Rendimiento.jpg?v=1700516264",
       "categoria": "auto",
-      "nombre": "Nissan SkyLine r34",
+      "nombre": "PhoenixBlaze Inferno",
       "precio": "1360000",
-      "descripcion": "El Nissan Skyline es un modelo de auto japonés que se ha producido en distintas versiones ininterrumpidamente desde 1957. Sería tras la fusión de los fabricantes Prince y Nissan, cuando comenzó a comercializarse con este nombre. Por estos días, el GTR R34 se ha convertido en el carro más deseado.",
+      "descripcion": "Procesador: AMD Ryzen 5 5600X Tarjeta Gráfica: NVIDIA GeForce GTX 1660 Super Memoria RAM: 16 GB DDR4 3000 MHz Almacenamiento: SSD NVMe 256 GB + HDD 1 TB",
       "id": "2"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/autos/auto-3.jpg",
+      "imgURL": "https://www.on24.com.ar/wp-content/uploads/2021/08/PC-Gamer.gif",
       "categoria": "auto",
-      "nombre": "Lamborghini Urus",
+      "nombre": "ApexWarrior Elite",
       "precio": "280000",
-      "descripcion": "El alma de un coche superdeportivo y la funcionalidad de un SUV: Lamborghini Urus es el primer vehículo utilitario superdeportivo en todo el mundo. Con unas proporciones extremas, un diseño estremecedor, una dinámica de conducción extraordinaria y un rendimiento taquicárdico, Urus es la libertad en estado puro.",
+      "descripcion": "Procesador: AMD Ryzen 9 5900X Tarjeta Gráfica: AMD Radeon RX 6800 XT Memoria RAM: 32 GB DDR4 3600 MHz Almacenamiento: SSD NVMe 1 TB",
       "id": "579ba193-70a2-4a2e-983b-c141c313435e"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/motos/moto-4.jpg",
+      "imgURL": "https://http2.mlstatic.com/D_NQ_NP_790568-MLA31082662954_062019-O.webp",
       "categoria": "moto",
-      "nombre": "Moto Harley Davidson",
+      "nombre": "Mousepad",
       "precio": "27000",
-      "descripcion": "El nuevo modelo de la H.D. de la marca norteamericana mide 2.185 mm de longitud, con un asiento a 760 mm de altura (sin carga) y una distancia mínima al suelo de 140 mm. Asimismo, la distancia entre ejes es de 1.515 mm y cuenta con un ángulo de dirección de 30 grados.",
+      "descripcion": "Material: Superficie de tela de alta densidad con base antideslizante de goma. Tamaño: Dimensiones estándar para un deslizamiento suave del ratón. Borde: Acabado con costuras reforzadas para mayor durabilidad. Superficie: Optimizada para un seguimiento preciso y respuesta rápida del ratón.",
       "id": "9926461c-fca3-4cc4-9301-70f0a7f11e97"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/motos/moto-1.jpg",
+      "imgURL": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/05/easysmx-esm-4108-3030068.jpg?tf=3840x",
       "categoria": "moto",
-      "nombre": "Yamaha XSR 900",
+      "nombre": "Mando Gamer",
       "precio": "19000",
-      "descripcion": "La XSR900, en su versión 2022, monta un chasis de aluminio compacto y ligero que ofrece una mayor rigidez que el anterior. Destaca por su estabilidad en línea recta y además, con las modificaciones incorporadas, hace que la posición del manillar sea más baja, facilitando la conducción deportiva.",
+      "descripcion": "Plataformas Compatibles: Diseñado para PC, consolas o ambas. Conectividad: Cableado o inalámbrico, con Bluetooth o tecnología específica para baja latencia.Botones y Giroscopio: Botones programables, giroscopio para detección de movimiento.Retroalimentación: Vibración háptica para una experiencia inmersiva.",
       "id": "b12caa3b-d176-4a73-a7b3-9e8f72ef4f1f"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/autos/auto-4.jpg",
+      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSHEoMVtDB7zN2E9Phv5euGuLQAQb9EgAqg&usqp=CAU",
       "categoria": "auto",
-      "nombre": "Ferrari F8 Tributo",
+      "nombre": "CyberXtreme Prodigy",
       "precio": "400000",
-      "descripcion": "El F8 Tributo es un Ferrari 488 Pista con mejoras en la carrocería y 50 caballos más de potencia. El F8 perfecciona la mecánica, la aerodinámica y la tecnología del 488 GTB. Según Flavio Manzoni, vicepresidente de diseño de Ferrari, con el F8 se busca una “Fusión entre la tecnología y el arte”.",
+      "descripcion": "Procesador: Intel Core i9-11900K Tarjeta Gráfica: NVIDIA GeForce RTX 3080 Memoria RAM: 32 GB DDR4 3600 MHz Almacenamiento: SSD NVMe 1 TB",
       "id": "36c4ddfe-70a3-4fb3-9814-982ede5462bb"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/motos/moto-2.jpg",
+      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lRCuJwKZktGAmmLALsvvwlZy8GDm_hUchA&usqp=CAU",
       "categoria": "moto",
-      "nombre": "Moto Chopera",
+      "nombre": "Cable de Conexión a Fuente de PC",
       "precio": "18000",
-      "descripcion": "Una Chopper es un tipo de motocicleta modificada (Chopped), para tener un ángulo de lanzamiento mayor, con horquilla más larga, lo que le da una batalla y avance más grandes que el resto de los tipos de motocicletas.",
+      "descripcion": "Longitud: Varía según las necesidades (por ejemplo, 1 metro, 2 metros). Conectores: Conector macho en un extremo para la fuente de alimentación y conector hembra en el otro para la conexión a la PC. Material: Construcción de alta calidad para una transmisión de energía eficiente. Protección: Revestimiento aislante y posiblemente blindaje para evitar interferencias electromagnéticas.",
       "id": "4334e457-13ec-4833-9df8-1c313095353b"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/motos/moto-3.jpg",
+      "imgURL": "https://shiftdigital.com.ar/images/Hikvision%20Pendrive%2064Gb%20USB%203%20M200S.jpg",
       "categoria": "moto",
-      "nombre": "Suzuki TS",
+      "nombre": "Pendrive",
       "precio": "10000",
-      "descripcion": "La Suzuki TS 185 es una motocicleta con una larga trayectoria dentro de la línea de motocicletas de Suzuki, lo que viene a ser una moto de las de antes. Introducida en 1971 La TS es una motocicleta de enduro con un motor de 1 cilindro de dos tiempos enfriado por aire que entrega hasta 18.3 HP. Tiene además un tanque de combustible de 13 l.",
+      "descripcion": "Capacidad de Almacenamiento: Varía según el modelo (por ejemplo, 32 GB, 64 GB, 128 GB). Interfaz: USB 3.0 para transferencias de datos rápidas. Diseño: Compacto y duradero, con tapa protectora o conector retráctil. Compatibilidad: Compatible con diferentes sistemas operativos (Windows, macOS, Linux).",
       "id": "3ed3436d-3f8a-48b3-939e-b4a961baabdc"
     },
     {
