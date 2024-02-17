@@ -41,14 +41,6 @@
       "id": "b12caa3b-d176-4a73-a7b3-9e8f72ef4f1f"
     },
     {
-      "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/aviones/avion-1.jpg",
-      "categoria": "avion",
-      "nombre": "Avion Militar F153",
-      "precio": "2865000",
-      "descripcion": "El F-35 es un caza de peso medio y monomotor, parece una versión más pequeña, más convencional y con un solo motor, del Lockheed Martin F-22 Raptor pesado y bimotor, y de hecho ambos modelos comparten muchos elementos comunes.",
-      "id": "85545b45-d8ee-4bfe-bdd2-97faeb29fd1a"
-    },
-    {
       "imgURL": "https://raw.githubusercontent.com/FacuuR001/e-commerce.github.io/main/assets/img/autos/auto-4.jpg",
       "categoria": "auto",
       "nombre": "Ferrari F8 Tributo",
@@ -74,7 +66,7 @@
     },
     {
       "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTae9T7V4OwoeVkuMFbnrXAj_cYhik-9hWrCw&usqp=CAU",
-      "categoria": "avion",
+      "categoria": "barco",
       "nombre": "Mouse Gamer",
       "precio": "5865090",
       "descripcion": "DPI (Puntos por Pulgada): Ajustable, generalmente en el rango de 800 a 16000 DPI. Botones Programables: Diseñado con varios botones configurables para acciones específicas en juegos.Iluminación RGB: Estilo personalizable con luces LED RGB.Sensor: Sensor óptico o láser para un seguimiento preciso.",
@@ -82,7 +74,7 @@
     },
     {
       "imgURL": "https://i.blogs.es/9329e1/perifericos-pc-navidad-amazon-mexico/840_560.png",
-      "categoria": "avion",
+      "categoria": "barco",
       "nombre": "Combo de Teclado, Cámara, y Touchpad",
       "precio": "4545250",
       "descripcion": "Teclado: Diseño: Mecánico o de membrana, según las preferencias.Retroiluminación: Teclas retroiluminadas, posiblemente con efectos RGB.Teclas Programables: Algunos modelos pueden tener teclas programables para macros.Cámara y Touchpad:Resolución de la Cámara: HD o superior para videoconferencias claras.Touchpad Integrado: Superficie táctil para controlar el cursor sin un ratón externo.Conexión: USB o inalámbrica, según el modelo.",
@@ -90,7 +82,7 @@
     },
     {
       "imgURL": "https://acdn.mitiendanube.com/stores/001/036/564/products/gm-500211-6eb1a793d937f3135c16285281004469-1024-1024.jpeg",
-      "categoria": "avion",
+      "categoria": "barco",
       "nombre": "Auriculares Gamer",
       "precio": "7595450",
       "descripcion": "Sonido Envolvente: Sonido envolvente virtual o tecnología 7.1 para una experiencia inmersiva.Micrófono Desmontable: Algunos modelos incluyen un micrófono desmontable para mayor versatilidad.Confort: Almohadillas cómodas, diadema ajustable y diseño ligero.Conectividad: Cableado o inalámbrico, con opciones de conectividad como USB o Bluetooth.",
@@ -98,7 +90,7 @@
     },
     {
       "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ivJfrqz5bElykiVOjb4jfXZpf6rr2i4EdA&usqp=CAU",
-      "categoria": "avion",
+      "categoria": "barco",
       "nombre": "Micrófono Gamer",
       "precio": "9538030",
       "descripcion": "Tipo de Micrófono: Condensador o dinámico para capturar sonidos claros y nítidos.Cancelación de Ruido: Tecnología para reducir el ruido ambiental no deseado.Conexión: USB o conector de 3.5 mm para una fácil compatibilidad.Soporte Ajustable: Brazo flexible o montaje para colocar el micrófono de manera conveniente.",
